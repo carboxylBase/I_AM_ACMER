@@ -1,2 +1,4 @@
 # I_AM_ACMER
-Damn,I'm so fucking smart!!!
+
+## 2025.1.8
+新年伊始,开个仓库来记录一下自己的~~传奇ACM生涯~~.
