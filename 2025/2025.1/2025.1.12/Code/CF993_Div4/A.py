@@ -1,3 +1,6 @@
+import sys
+# sys.stdin = open('input.txt','r')
+
 def solve():
     a = int(input())
     a -= 1
